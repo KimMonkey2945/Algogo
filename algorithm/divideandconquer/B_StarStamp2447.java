@@ -2,7 +2,7 @@ package algorithm.divideandconquer;
 import java.util.Scanner;
 
 public class B_StarStamp2447 {
-	
+	//메모리 초과는 나중에 수정하도록.... 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = (int) Math.pow(3, sc.nextInt());
